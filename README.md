@@ -13,4 +13,4 @@ Texts (each has its own address):
 - **Pronunciations:** derived by cited sound rules: Kökeritz, *A Guide to Chaucer's Pronunciation* (1962), for Middle English; Hogg, *A Grammar of Old English* (1992), for Old English.
 - **Voice:** ElevenLabs `eleven_v4`, from inline IPA.
 
-This is a static snapshot: nothing here runs, voices or edits anything.
+This is a static snapshot: nothing here runs, voices or edits anything. The app itself, which reads new texts and voices them, is at https://github.com/busycursor/lettre-to-voys.
